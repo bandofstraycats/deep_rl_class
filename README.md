@@ -4,6 +4,7 @@ Hands-on introduction to Deep Reinforcement Learning, presented at [PAISS](https
 ## Contents
 ### Markov Decision Process
 ### Deep Q-learning
+* Experience replay
 * Double Deep Q-learning
 * Dueling Q-learning
 ### Actor-Critic
