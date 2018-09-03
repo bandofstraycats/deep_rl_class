@@ -1,4 +1,4 @@
-# deep_rl_class
+# Introduction to Deep Reinforcement Learning
 Hands-on introduction to Deep Reinforcement Learning, presented at [PAISS](https://project.inria.fr/paiss/).
 
 ## Contents
