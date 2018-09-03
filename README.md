@@ -1,5 +1,5 @@
 # deep_rl_class
-Hands-on introduction to Deep Reinforcement Learning
+Hands-on introduction to Deep Reinforcement Learning, presented at [PAISS](https://project.inria.fr/paiss/).
 
 ## Contents
 ### Markov Decision Process
